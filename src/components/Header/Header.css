@@ -1,0 +1,21 @@
+.head-container{
+    height: 60px;
+    background-color:#2874F0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15px 0 15px;
+    color: whitesmoke;
+    font-family:" Georgia, Times, 'Times New Roman', serif";
+    
+    /* margin: 0px;
+    padding: 0px; */
+}
+
+
+
+.head-container>button{
+    text-align: center;
+    width: 150px;
+}
+
