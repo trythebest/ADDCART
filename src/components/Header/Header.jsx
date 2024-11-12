@@ -29,7 +29,7 @@ const Header = ({cart,setCart}) => {
         isOpen={visible}
         onRequestClose={()=>setVisible(false)}
         contentLabel="Example Modal"
-        className="p-4 bg-black text-white m-8 min-h-40 bg-white pb-4 rounded-md "
+        className="p-4  m-8 min-h-40 bg-white pb-4 rounded-md "
       >
         <div className='flex justify-between'>
         <h2>Cart Items</h2>
